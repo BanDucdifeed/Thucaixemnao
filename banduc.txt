@@ -1,0 +1,12 @@
+					<div class="input-group mb-5 mt-3">
+						<div class="input-group-prepend">
+							<span class="input-group-text"> <i
+								class="fa-solid fa-calendar fa-lg mr-1" style="color: #0887f7;">
+							</i>Ngày bắt đầu
+							</span>
+						</div>
+						<div>
+							<input type="date" class="form-control" id="idStartDate"
+								name="startInqTime">
+						</div>
+					</div>
